@@ -1,0 +1,17 @@
+******* Starting Test_002_DDT_Login Test **********
+******* Starting Login DDT Test **********
+********** username = admin@yourstore.com 
+********** password = admin*************
+**** passed ****
+********** username = admin@yourstore.com 
+********** password = adm*************
+**** passed ****
+********** username = adm@yourstore.com
+********** password = admin*************
+**** passed ****
+********** username = adm@yourstore.com
+********** password = adm*************
+**** passed ****
+******* DDT Login test passed **********
+******* End of Login DDT Test **********
+**************** Completed  TC_LoginDDT_002 ************* 
